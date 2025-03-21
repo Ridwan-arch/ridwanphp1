@@ -1,4 +1,4 @@
-<?php include '.\_partials\_template\header.php';?>
+<?php include './_partials/_template/header.php';?>
 
 <style>
 
